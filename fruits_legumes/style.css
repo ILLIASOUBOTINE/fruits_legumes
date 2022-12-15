@@ -1,0 +1,35 @@
+
+.red {
+    color: red;
+}
+
+
+div {
+    font-size: 50px;
+    text-align: center;
+    cursor: pointer;
+}
+
+td,th, table{
+    /* font-size: 14px; */
+    border: solid;
+}
+
+.myTable {
+    width: 60vmin;
+    height: 50vmin;
+}
+
+.addTable {
+    display: block;
+    width: 60vmin;
+    height: 20vmin;
+}
+
+input {
+    width: 80%;
+}
+
+.visib {
+    display: none;
+}
